@@ -1,0 +1,17 @@
+{
+  "name": "dwi",
+  "version": "3.0.0",
+  "description": "Mat's Unit 1.1 Project - Department for Welfare Intelligence",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mat Denney",
+  "license": "ISC",
+  "dependencies": {
+    "edit-json-file": "^1.5.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "socket.io": "^3.0.5"
+  }
+}
