@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="libraries/p5.js"></script>
+  <script src="libraries/addons/p5.sound.min.js"></script>
+  <script src="https://cdn.socket.io/socket.io-3.0.1.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="ubiqio.css">
+  <link rel="stylesheet" href="https://use.typekit.net/luq1ygj.css">
+  <meta charset="utf-8">
+  <title>ubiq.io Hub : Verification Model Training</title>
+
+</head>
+
+<body>
+  <script src="trainModel.js"></script>
+
+
+  <div class="sidenav">
+    <img src="images/ubiqio_hex.svg" width="150" height="150" class="hexLogo" />
+
+    <a href="ubiqio.html" target="_self">Home</a>
+    <a href="#">ML Training</a>
+    <a href="drawModel.html" target="_self">ML Visualiser</a>
+  </div>
+
+  <div id="mainWindow" class="content">
+    <h1>Welcome to the training hub</h1>
+    <p>You are helping to train our ubiq.io <span class="emphasis">Voice Verification Model&reg; (VVM)</span>.<br/>
+Certain vocal characteristics may indicate the truthfulness of a statement. Your intuition about different vocal performances will help our AI model to continually learn about the intentions of human speech.</p>
+
+<h2>Instructions</h2>
+<ol>
+<li>Press <span class="emphasis">Play</span> to listen to a voice from the database.</li>
+<li>Give the speaker a “trustworthy” rating from 0 (deceptive) to 9 (truthful).</li>
+<li>Use the Deciding Factors sliders to help our model to understand what makes a vocal trustworthy or not. E.g. amount of hesitation, how fast the speech.</li>
+<li>When you have entered your data, press the <span class="emphasis">Save</span> button.</li>
+</ol>
+
+<p>To reload another voice, press your browser's <span class="emphasis">Reload</span> button.<br/>Click the <span class="emphasis">ML Visualiser</span> tab to the left to see the dataset.
+</p>
+
+
+  </div>
+
+</body>
+
+</html>

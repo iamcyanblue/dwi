@@ -1,0 +1,46 @@
+{
+   "people":[
+      {
+         "name":"Jorge",
+         "age":"34",
+         "location":"Peterborough",
+         "story":"Jorge has Multiple Sclerosis and lives with his elderly mother. He’s under the care of a specialist MS nurse and a Neurologist at his local healthcare trust. He used to have a Motability vehicle and a Blue Badge but is now unable to drive."
+      },
+      {
+         "name":"Julia",
+         "age":"52",
+         "location":"Portsmouth",
+         "story":"Julia has a rare neurological condition and uses a wheelchair to get around. Her condition causes her sporadic pains in both arms, making many day-to-day activities dangerous, for example cooking. She has no internet access at home and has to use the computer at her local support group."
+      },
+            {
+         "name":"Piotr",
+         "age":"28",
+         "location":"Harrogate",
+         "story":"Piotr has clinical depression and severe anxiety. He is under the care of a Community Psychiatric Nurse. Earlier in the year he was admitted to the psychiatric ward after a psychotic episode and while he has improved in the following months, he still finds it difficult to leave his flat unaccompanied."
+      },
+            {
+         "name":"Morag",
+         "age":"47",
+         "location":"Arbroath",
+         "story":"Morag is recovering from spinal surgery after two years of severe back pain caused by a car accident. She is under the care of a neurologist and taking Tramadol for pain relief, which affects her coordination and alertness. She is awaiting further diagnostic tests for spinal compression."
+      },
+            {
+         "name":"Anjali",
+         "age":"53",
+         "location":"Swansea",
+         "story":"Anjali is recovering from chemotherapy treatment for cancer last year. This has left her with severe fatigue and a compromised immune system, so she has to isolate herself against further infections. Prior to her treatment, she was a self-employed gardener, but has had to give up manual work and now does one day a week as a bookkeeper."
+      },
+            {
+         "name":"Tamisha",
+         "age":"24",
+         "location":"Gateshead",
+         "story":"Tamisha has bipolar disorder and severe anxiety. She was brought up in care and is on the waiting list for social housing. In the meantime, she sofa surfs at friends’ flats. The stress of being homeless and her precarious financial situation exacerbates her anxiety and makes it difficult to stay in steady employment for extended periods of time."
+      },
+            {
+         "name":"Obafemi",
+         "age":"39",
+         "location":"Stockport",
+         "story":"Obafemi has M.E., and lives with her 16-year-old daughter, Blessing, who is also her carer. Obafemi’s condition varies from day to day, meaning that on a good day she can walk to the park or go grocery shopping. On a bad day she is bed bound with severe fatigue and brain fog, making simple tasks like sending an email, impossible."
+      }
+   ]
+}

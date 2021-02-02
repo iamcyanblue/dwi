@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="libraries/p5.js"></script>
+  <script src="libraries/addons/p5.sound.min.js"></script>
+  <script src="https://cdn.socket.io/socket.io-3.0.1.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="ubiqio.css">
+  <link rel="stylesheet" href="https://use.typekit.net/luq1ygj.css">
+  <meta charset="utf-8">
+  <title>ubiq.io Hub : Model Visualiser</title>
+
+</head>
+
+<body>
+  <script src="drawModel.js"></script>
+
+
+
+  <div class="sidenav">
+    <img src="images/ubiqio_hex.svg" width="150" height="150" class="hexLogo" />
+
+    <a href="ubiqio.html" target="_self">Home</a>
+    <a href="trainModel.html" target="_self">ML Training</a>
+    <a href="#">ML Visualiser</a>
+  </div>
+
+  <div id="mainWindow" class="content">
+    <h1>Model Visualiser</h1>
+    <p>This is the current view into our ubiq.io <span class="emphasis">Voice Verification Model&reg; (VVM)</span>.
+It shows the distribution of vocal attributes across a continuum of perceived trustworthiness, classified by ubiq.io trainers, just like you. Our models are used by governments to maximise public budgets, expedite benefit application and eliminate fraud.</p>
+
+<h3>To cycle through the datasets, click the graph.</h3>
+
+<div id="graph"></div>
+
+<h2>How to interpret</h2>
+<p>The dataset is plotted from left (least trustworthy) to right (most trustworthy). The <span class="emphasis">Optimal Trustworthiness Zone&reg; (OTZ)</span> is shaded in grey and represents perceived vocal qualities most likely to be truthful.
+Amount of an attribute present, for example speaking volume, is shown on the y axis: the louder the voice, the higher the dot.</p>
+
+
+  </div>
+
+
+
+
+
+</body>
+
+</html>

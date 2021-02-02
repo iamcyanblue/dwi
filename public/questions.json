@@ -1,0 +1,640 @@
+{
+   "questions":[
+      {
+         "questionID":0,
+         "questionText":"Are you taking any tablets, liquids, inhalers or other medication that may have any side effects?",
+         "options":[
+            {
+               "answerID":0,
+               "answerText":"No"
+            },
+            {
+               "answerID":1,
+               "answerText":"Yes"
+            }
+         ]
+      },
+      {
+         "questionID":1,
+         "questionText":"How far can you move safely and repeatedly on level ground without needing to stop?",
+         "options":[
+            {
+               "answerID":2,
+               "answerText":"50 metres – about the length of 5 double-decker buses"
+            },
+            {
+               "answerID":3,
+               "answerText":"100 metres – about the length of a football pitch."
+            },
+            {
+               "answerID":4,
+               "answerText":"200 metres or more"
+            },
+            {
+               "answerID":5,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":2,
+         "questionText":"Do you need a walking stick, crutches, a wheelchair or anything else to help you?",
+         "options":[
+            {
+               "answerID":6,
+               "answerText":"Every day"
+            },
+            {
+               "answerID":7,
+               "answerText":"Frequently"
+            },
+            {
+               "answerID":8,
+               "answerText":"Occasionally"
+            },
+            {
+               "answerID":9,
+               "answerText":"Never"
+            }
+         ]
+      },
+      {
+         "questionID":3,
+         "questionText":"Can you go up or down two steps without help from another person, if there is a rail to hold on to?",
+         "options":[
+            {
+               "answerID":10,
+               "answerText":"No"
+            },
+            {
+               "answerID":11,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":12,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":4,
+         "questionText":"Can you move from one seat to another right next to it without help from someone else?",
+         "options":[
+            {
+               "answerID":13,
+               "answerText":"No"
+            },
+            {
+               "answerID":14,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":15,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":5,
+         "questionText":"While you are standing or sitting (or a combination of the two) how long can you stay in one place and be pain free without the help of another person?",
+         "options":[
+            {
+               "answerID":16,
+               "answerText":"Less than 30 minutes"
+            },
+            {
+               "answerID":17,
+               "answerText":"30 minutes to one hour"
+            },
+            {
+               "answerID":18,
+               "answerText":"More than one hour"
+            },
+            {
+               "answerID":19,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":6,
+         "questionText":"Can you lift at least one of your arms high enough to put something in the top pocket of a coat or jacket while you are wearing it?",
+         "options":[
+            {
+               "answerID":20,
+               "answerText":"No"
+            },
+            {
+               "answerID":21,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":22,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":7,
+         "questionText":"Can you lift one of your arms above your head?",
+         "options":[
+            {
+               "answerID":23,
+               "answerText":"No"
+            },
+            {
+               "answerID":24,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":25,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":8,
+         "questionText":"Can you pick up and move a half-litre (one pint) carton full of liquid using your upper body and either arm?",
+         "options":[
+            {
+               "answerID":26,
+               "answerText":"No"
+            },
+            {
+               "answerID":27,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":28,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":9,
+         "questionText":"Can you pick up and move a litre (two pint) carton full of liquid using your upper body and either arm?",
+         "options":[
+            {
+               "answerID":29,
+               "answerText":"No"
+            },
+            {
+               "answerID":30,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":31,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":10,
+         "questionText":"Can you pick up and move a large, light object like an empty cardboard box? For example, from one surface to another at waist height.",
+         "options":[
+            {
+               "answerID":32,
+               "answerText":"No"
+            },
+            {
+               "answerID":33,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":34,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":11,
+         "questionText":"Can you use either hand to press a button, turn the pages of a book, pick up a £1 coin?",
+         "options":[
+            {
+               "answerID":35,
+               "answerText":"Some of these things"
+            },
+            {
+               "answerID":36,
+               "answerText":"None of these things"
+            },
+            {
+               "answerID":37,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":12,
+         "questionText":"Can you use either hand to use a pen or pencil, a suitable keyboard or mouse?",
+         "options":[
+            {
+               "answerID":38,
+               "answerText":"Some of these things"
+            },
+            {
+               "answerID":39,
+               "answerText":"None of these things"
+            },
+            {
+               "answerID":40,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":13,
+         "questionText":"Can you communicate a simple message to other people – such as the presence of something dangerous – without the help of another person?",
+         "options":[
+            {
+               "answerID":41,
+               "answerText":"No"
+            },
+            {
+               "answerID":42,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":43,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":14,
+         "questionText":"Can you understand simple messages from other people by hearing or lip reading without the help of another person? For example, someone telling you the location of a fire escape.",
+         "options":[
+            {
+               "answerID":44,
+               "answerText":"No"
+            },
+            {
+               "answerID":45,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":46,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":15,
+         "questionText":"Can you understand simple messages from other people by reading large size print or using Braille?",
+         "options":[
+            {
+               "answerID":47,
+               "answerText":"No"
+            },
+            {
+               "answerID":48,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":49,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":16,
+         "questionText":"Can you see to cross the road safely on your own?",
+         "options":[
+            {
+               "answerID":50,
+               "answerText":"No"
+            },
+            {
+               "answerID":51,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":52,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":17,
+         "questionText":"Can you safely get around a place that you have not been to before without help?",
+         "options":[
+            {
+               "answerID":53,
+               "answerText":"No"
+            },
+            {
+               "answerID":54,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":55,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":18,
+         "questionText":"Do you have to wash or change your clothes because of difficulty controlling your bladder, bowels or collecting device?",
+         "options":[
+            {
+               "answerID":56,
+               "answerText":"No"
+            },
+            {
+               "answerID":57,
+               "answerText":"Yes – weekly"
+            },
+            {
+               "answerID":58,
+               "answerText":"Yes – monthly"
+            },
+            {
+               "answerID":59,
+               "answerText":"Yes – less than monthly"
+            },
+            {
+               "answerID":60,
+               "answerText":"Yes – but only if I cannot reach a toilet quickly"
+            }
+         ]
+      },
+      {
+         "questionID":19,
+         "questionText":"While you are awake, how often do you faint or have fits or blackouts?",
+         "options":[
+            {
+               "answerID":61,
+               "answerText":"Daily"
+            },
+            {
+               "answerID":62,
+               "answerText":"Weekly"
+            },
+            {
+               "answerID":63,
+               "answerText":"Monthly"
+            },
+            {
+               "answerID":64,
+               "answerText":"Less than monthly"
+            },
+            {
+               "answerID":65,
+               "answerText":"Never"
+            }
+         ]
+      },
+      {
+         "questionID":20,
+         "questionText":"Can you learn how to do an everyday task such as setting an alarm clock?",
+         "options":[
+            {
+               "answerID":66,
+               "answerText":"No"
+            },
+            {
+               "answerID":67,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":68,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":21,
+         "questionText":"Can you learn how to do a complicated task such as using a washing machine?",
+         "options":[
+            {
+               "answerID":69,
+               "answerText":"No"
+            },
+            {
+               "answerID":70,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":71,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":22,
+         "questionText":"Can you stay safe when doing everyday tasks such as boiling water or using sharp objects?",
+         "options":[
+            {
+               "answerID":72,
+               "answerText":"No"
+            },
+            {
+               "answerID":73,
+               "answerText":"Yes"
+            }
+         ]
+      },
+      {
+         "questionID":23,
+         "questionText":"Do you need someone to stay with you for most of the time to stay safe?",
+         "options":[
+            {
+               "answerID":74,
+               "answerText":"No"
+            },
+            {
+               "answerID":75,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":76,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":24,
+         "questionText":"Can you manage to plan, start and finish daily tasks?",
+         "options":[
+            {
+               "answerID":77,
+               "answerText":"Never"
+            },
+            {
+               "answerID":78,
+               "answerText":"Sometimes"
+            },
+            {
+               "answerID":79,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":25,
+         "questionText":"Can you cope with small changes to your routine if you know about them before they happen? For example, having a meal earlier or later than usual, or an appointment time being changed.",
+         "options":[
+            {
+               "answerID":80,
+               "answerText":"No"
+            },
+            {
+               "answerID":81,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":82,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":26,
+         "questionText":"Can you cope with small changes to your routine if they are unexpected? For example, your bus or train not running on time.",
+         "options":[
+            {
+               "answerID":83,
+               "answerText":"No"
+            },
+            {
+               "answerID":84,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":85,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":27,
+         "questionText":"Can you leave home and go out to places you know?",
+         "options":[
+            {
+               "answerID":86,
+               "answerText":"No"
+            },
+            {
+               "answerID":87,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":88,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":28,
+         "questionText":"Can you leave home and go to places you do not know?",
+         "options":[
+            {
+               "answerID":89,
+               "answerText":"No"
+            },
+            {
+               "answerID":90,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":91,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":29,
+         "questionText":"Can you meet people you know without feeling too anxious or scared?",
+         "options":[
+            {
+               "answerID":92,
+               "answerText":"No"
+            },
+            {
+               "answerID":93,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":94,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":30,
+         "questionText":"Can you meet people you do not know without feeling too anxious or scared?",
+         "options":[
+            {
+               "answerID":95,
+               "answerText":"No"
+            },
+            {
+               "answerID":96,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":97,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":31,
+         "questionText":"How often do you behave in a way which upsets other people?",
+         "options":[
+            {
+               "answerID":98,
+               "answerText":"Every day"
+            },
+            {
+               "answerID":99,
+               "answerText":"Frequently"
+            },
+            {
+               "answerID":100,
+               "answerText":"Occasionally"
+            },
+            {
+               "answerID":101,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":32,
+         "questionText":"Can you get food or drink to your mouth without help or being prompted by another person?",
+         "options":[
+            {
+               "answerID":102,
+               "answerText":"No"
+            },
+            {
+               "answerID":103,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":104,
+               "answerText":"It varies"
+            }
+         ]
+      },
+      {
+         "questionID":33,
+         "questionText":"Can you chew and swallow food or drink without help or being prompted by another person?",
+         "options":[
+            {
+               "answerID":105,
+               "answerText":"No"
+            },
+            {
+               "answerID":106,
+               "answerText":"Yes"
+            },
+            {
+               "answerID":107,
+               "answerText":"It varies"
+            }
+         ]
+      }
+   ]
+}
